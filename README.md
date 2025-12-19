@@ -15,7 +15,7 @@ LocalBite
 1. Клонирование
 
 bash
-git clone https://github.com/USERNAME/localbite.git
+git clone https://github.com/DanrekoN/localbite.git
 cd localbite
 
 2. Бэкэнд
